@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://angwakwe.github.io/sitemap.xml
+Sitemap: https://lilylovewine.github.io/le.vinergy/sitemap.xml
