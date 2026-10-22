@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been hired by ([Robyn Muir](https://www.surrey.ac.uk/people/robyn-muir)) to work as Research Assisstant for a project about labor market demands from AI skills. 
+I have been hired by [Robyn Muir](https://www.surrey.ac.uk/people/robyn-muir) to work as Research Assisstant for a project about labor market demands from AI skills. 
