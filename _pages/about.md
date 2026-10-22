@@ -26,8 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Amarachi Ngwakwe is a PhD student at the University of Surrey’s Institute for People-Centred AI. Her research explores technology adoption in newsrooms, AI literacy, and the integration of emerging technologies into journalism education.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to pursuing her PhD, Amarachi worked as a content strategy analyst across several news organizations, including the BBC, NPR, PBS, and USA Today Co. She has led audience development initiatives across more than ten regional newsrooms in the United States, including the Austin American-Statesman, El Paso Times, and The Oklahoman. Using data-informed strategy and multichannel storytelling, she has collaborated with reporters and editors to strengthen audience engagement and deepen connections with readers.
