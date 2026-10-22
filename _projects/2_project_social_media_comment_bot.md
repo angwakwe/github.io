@@ -41,8 +41,8 @@ The tool was designed to, once given a URL, analyze comments associated with a s
 The goal was to reduce the time spent manually reviewing comments while helping journalists identify traffic driving story opportunities.
 
 ### The Outcome
-The tool attracted greater interest from the social media team than from reporters. Overall adoption among journalists was fairly limited.
+The tool attracted greater attention from the social media team, while overall adoption among journalists was fairly small.
 
-Although the project demonstrated a potential application of generative AI in newsroom workflows, its reception highlighted an important consideration: **developing a tool that addresses a newsroom challenge does not guarantee that journalists will adopt it.**
+Although IG-Comment Bot offers a practical use-case of GenAI in newsrooms, its limited adoption by journalist highlights an important element of technology adoption : **developing a tool does not guarantee that user will adopt it**. Rather addressing a pain point that users a requesting a solution to, may lead to more adoption that create a solution to a challenge that users aren't motivated to address. 
 
 The experience reinforced the importance of understanding users' existing workflows and professional needs when designing AI-assisted tools for journalism.
