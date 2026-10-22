@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AI Job Market Analysis
-description: AI-Assisted Document Analysis
+title: The AI Diaries
+description: Exploring how undergraduate students and employers conceptualise and use GenAI
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -10,12 +10,9 @@ related_publications: true
 
 **Context**
 
-In response to AI transforming the job market, teaching staff from FABSS at the University of Surrey  wanted to understand the skills employers expected from candidates. 
+In response to rising role of AI in various industries, teaching staff at the University of Surrey  wanted to understand the skills employers expected from candidates. This information would support shaping curriculum and delivering lectures on topics that prepared students for their professional careers. 
 
-This information would support shaping curriculum and delivering lectures on topics that prepared students for their professional careers. 
-
-To achieve this, I needed to develop a systematic way to analyze 
-over 120,000 job descriptions. 
+To explore job marked demands, I analyze over 3,000 job descriptions from the UK Job Board <Reed.co.uk> 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
