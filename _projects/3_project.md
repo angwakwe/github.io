@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Selected Video Work
+description: Explore a collection of my video journalism, multimedia storytelling, and production projects.
 img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
+redirect: https://amarachingwakwe.wixsite.com/aphoton
 importance: 3
 category: work
 ---
