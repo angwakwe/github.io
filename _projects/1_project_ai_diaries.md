@@ -2,7 +2,7 @@
 layout: page
 title: The AI Diaries
 description: Exploring how undergraduate students and employers conceptualise and use GenAI
-img: assets/img/12.jpg
+img: assets/img/job-skills.jpg
 importance: 1
 category: work
 related_publications: true
