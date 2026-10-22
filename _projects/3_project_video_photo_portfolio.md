@@ -2,7 +2,7 @@
 layout: page
 title: Selected Video Work
 description: Explore a collection of my video journalism, multimedia storytelling, and production projects.
-img: assets/img/7.jpg
+img: assets/img/photography-sample-1.jpg
 redirect: https://amarachingwakwe.wixsite.com/aphoton
 importance: 3
 category: work
