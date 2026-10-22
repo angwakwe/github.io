@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: Newsroom Audience Strategy | AI Journalism Researcher
 
 profile:
