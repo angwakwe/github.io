@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Video Work
+title: Selected Video & Photo Work
 description: Explore a collection of my video journalism, multimedia storytelling, and production projects.
 img: assets/img/photography-sample-1.jpg
 redirect: https://amarachingwakwe.wixsite.com/aphoton
