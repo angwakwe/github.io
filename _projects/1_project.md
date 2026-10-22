@@ -45,7 +45,7 @@ over 120,000 job descriptions.
 </div>
 
 I developed a systematic process to collect and analyze job descriptions 
-for the 12 most common career paths students pursue 13-months after graduation. 
+for the most common roles students pursue after graduation. 
 
 I used ChatGPT to help write Python scripts to automate my analysis, 
 manually inspected the code output and job descriptions to assess the accuracy of the script, 
