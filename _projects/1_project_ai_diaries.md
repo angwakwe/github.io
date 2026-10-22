@@ -7,7 +7,7 @@ importance: 1
 category: work
 related_publications: true
 ---
-
+Image Source: Rawpixel/Getty Images
 
 The rising role of AI in various industries requires new skills in the job market. Teaching staff at the University of Surrey wanted to understand the skills employers expected from candidates. This information would inform redesigning curriculum and delivering lectures on topics that prepared students for their professional careers. 
 
