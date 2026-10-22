@@ -5,7 +5,7 @@ description: Using generative AI to turn audience conversations into potential n
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 # Social Media Story Idea Tool
