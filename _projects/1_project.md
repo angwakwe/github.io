@@ -10,13 +10,9 @@ related_publications: true
 
 **Context**
 
-In response to AI transforming the job market, 
-teaching staff from FABSS at the University of Surrey 
-wanted to understand the skills employers expected from candidates. 
+In response to AI transforming the job market, teaching staff from FABSS at the University of Surrey  wanted to understand the skills employers expected from candidates. 
 
-This information would support shaping curriculum and 
-delivering lectures on topics that 
-prepared students for their professional careers. 
+This information would support shaping curriculum and delivering lectures on topics that prepared students for their professional careers. 
 
 To achieve this, I needed to develop a systematic way to analyze 
 over 120,000 job descriptions. 
