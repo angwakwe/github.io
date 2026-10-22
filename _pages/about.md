@@ -2,8 +2,6 @@
 layout: about
 title: about
 permalink: /
-
-
 subtitle: **Newsroom Audience Strategy | AI Journalism Researcher**
 
 profile:
