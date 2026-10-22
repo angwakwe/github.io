@@ -8,18 +8,17 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Context**
+In response to AI transforming the job market, 
+teaching staff from FABSS at the University of Surrey 
+wanted to understand the skills employers expected from candidates. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This information would support shaping curriculum and 
+delivering lectures on topics that 
+prepared students for their professional careers. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+To achieve this, I needed to develop a systematic way to analyze 
+over 120,000 job descriptions. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,9 +43,12 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I developed a systematic process to collect and analyze job descriptions 
+for the 12 most common career paths students pursue 13-months after graduation. 
+
+I used ChatGPT to help write Python scripts to automate my analysis, 
+manually inspected the code output and job descriptions to assess the accuracy of the script, 
+and iteratively refined the code to address any problems. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
