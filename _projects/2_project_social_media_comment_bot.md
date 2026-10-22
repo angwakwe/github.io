@@ -2,7 +2,7 @@
 layout: page
 title: IG-Comment Bot
 description: Using generative AI to turn audience conversations into potential news coverage.
-img: assets/img/3.jpg
+img: assets/img/ig-comment-bot.jpg
 importance: 2
 category: work
 giscus_comments: false
@@ -10,11 +10,11 @@ giscus_comments: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ig-comment-bot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+Image Credit: <https://metricool.com/social-media-bots/>
 </div>
 
 ### The Task
