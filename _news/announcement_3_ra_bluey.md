@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been hired by [Naomi Winstone](https://www.surrey.ac.uk/people/naomi-winstone)) to work as Research Assistant for a project about feedback literacy in young children.
+I have been hired by [Naomi Winstone](https://www.surrey.ac.uk/people/naomi-winstone) to work as Research Assistant for a project about feedback literacy in young children.
