@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The AI Diaries
+title: The AI Diaries Research Project
 description: Exploring how undergraduate students and employers conceptualise and use GenAI
 img: assets/img/job-skills.jpg
 importance: 1
