@@ -29,3 +29,5 @@ latest_posts:
 Prior to pursuing her PhD, Amarachi worked as a content strategy analyst across several news organizations, including the **BBC, NPR, PBS, and USA Today Co.** She has led audience development initiatives across more than ten regional newsrooms in the United States, including the Austin American-Statesman, El Paso Times, and The Oklahoman.
 
 She holds a Master of Arts in Journalism from Goldsmiths, University of London and a Bachelors of Arts in Humanities from the University of Texas at Austin.
+
+
