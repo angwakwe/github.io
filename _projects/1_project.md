@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Job Skills
+title: AI Job Market Analysis
 description: AI-Assisted Document Analysis
 img: assets/img/12.jpg
 importance: 1
