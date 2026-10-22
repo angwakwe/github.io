@@ -10,9 +10,11 @@ related_publications: true
 
 **Context**
 
-In response to rising role of AI in various industries, teaching staff at the University of Surrey  wanted to understand the skills employers expected from candidates. This information would support shaping curriculum and delivering lectures on topics that prepared students for their professional careers. 
+In response to rising role of AI in various industries, teaching staff at the University of Surrey wanted to understand the skills employers expected from candidates. This information would inform redesigning curriculum and delivering lectures on topics that prepared students for their professional careers. 
 
-To explore job marked demands, I analyze over 3,000 job descriptions from the UK Job Board <Reed.co.uk> 
+To support the project, I analyzed over 3,500 job descriptions from the UK Job Board <Reed.co.uk> collected between May and July 2026. Using ChatGPT, I wrote a Python scripts to automate my analysis. To assess the accuracy of the script, I manually inspected the code output and job descriptions and iteratively refined the code to address any problems. 
+
+The findings were translated into a formal report that were shared with faculty and I will be delivered as a teach seminar with my colleague in November 2026.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -37,12 +39,12 @@ To explore job marked demands, I analyze over 3,000 job descriptions from the UK
     This image can also have a caption. It's like magic.
 </div>
 
-I developed a systematic process to collect and analyze job descriptions 
-for the most common roles students pursue after graduation. 
+To achieve this, I developed a systematic process to collect and analyze job descriptions for the most common roles students pursue after graduation. 
 
-I used ChatGPT to help write Python scripts to automate my analysis, 
-manually inspected the code output and job descriptions to assess the accuracy of the script, 
-and iteratively refined the code to address any problems. 
+I used ChatGPT to help write Python scripts to automate my analysis, manually inspected the code output and job descriptions to assess the accuracy of the script, and iteratively refined the code to address any problems. 
+
+**Outcome**
+I developed a human-in-the-loop process to analyze 3,898 job descriptions within the project time-constraints. The findings were translated into a formal report that was shared with faculty and a teaching seminar that I will deliver with my colleague in November 2026. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
