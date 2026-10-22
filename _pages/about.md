@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Newsroom Audience Strategy | AI Journalism Researcher**
+subtitle: **Newsroom Audience Strategy** | **AI Journalism Researcher**
 
 profile:
   align: right
