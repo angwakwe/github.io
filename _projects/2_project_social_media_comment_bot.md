@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IG-Comment Bot
+title: IG-Comment Newsroom Bot
 description: Using generative AI to turn audience conversations into potential news coverage.
 img: assets/img/ig-comment-bot.jpg
 importance: 2
