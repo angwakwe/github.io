@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/cv-amarachi-ngwakwe-v3.pdf
+permalink: /assets/pdf/cv-amarachi-ngwakwe-.pdf
 title: CV
 nav: true
 nav_order: 5
