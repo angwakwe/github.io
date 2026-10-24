@@ -28,10 +28,10 @@ At USA TODAY Co., we encouraged newsrooms to use audience analytics to better un
 
 Beyond promoting content and driving traffic, social media comment sections offer newsrooms an opportunity to understand audience perspectives, identify unanswered questions, and source ideas for follow-up reporting.
 
-However, online conversations can be a mixed bag. While some comment sections can be a gold mine for story ideas and crowdsourcing, others a filled with irrelevant, hostile, or abusive remarks. Given that newsrooms are active across several platforms and making several post a day, it was not  practical use of journalists' time to manually review comments across all platforms.
+However, online conversations can be a mixed bag. While some comment sections can be a gold mine for story ideas and crowdsourcing, others are filled with irrelevant, hostile, or abusive remarks. Given that newsrooms are active across several platforms and make several post on each, it was not  practical use of journalists' time to manually review comments across all platforms.
 
 ### The Solution
-I developed **IG-Comment Bot**, a ChatGPT-based prompt designed to streamline the analysis of social media comments.
+I developed **IG-Comment Bot**, a CoPilot-based prompt designed to streamline the analysis of social media comments.
 
 The tool was designed to, once given a URL, analyze comments associated with a social media post and share two things:
 
@@ -43,6 +43,8 @@ The goal was to reduce the time spent manually reviewing comments while helping 
 ### The Outcome
 The tool attracted greater attention from the social media team, while overall adoption among journalists was fairly small.
 
-Although IG-Comment Bot offers a practical use-case of GenAI in newsrooms, its limited adoption by journalist highlights an important element of technology adoption : **developing a tool does not guarantee that user will adopt it**. Rather addressing a pain point that users a requesting a solution to, may lead to more adoption that create a solution to a challenge that users aren't motivated to address. 
+Although IG-Comment Bot offers a practical use-case of GenAI in newsrooms, the limited adoption by journalist highlights an important reality of technology adoption : **developing a tool does not guarantee that user will adopt it**. 
+
+Rather than creating a solution to a challenge that users aren't asking to be addressed, building tools based on expressed pain points may lead to more adoption. 
 
 The experience reinforced the importance of understanding users' existing workflows and professional needs when designing AI-assisted tools for journalism.
